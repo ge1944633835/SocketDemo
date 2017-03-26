@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/gechuanguang/Android/workSpaceTwo/SocketDemo/AndroidAsync/src/main/assets"/><source path="/Users/gechuanguang/Android/workSpaceTwo/SocketDemo/AndroidAsync/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/gechuanguang/Android/workSpaceTwo/SocketDemo/AndroidAsync/src/release/assets"/></dataSet></merger>

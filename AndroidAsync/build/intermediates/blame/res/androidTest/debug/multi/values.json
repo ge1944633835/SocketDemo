@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/gechuanguang/Android/workSpaceTwo/SocketDemo/AndroidAsync/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/gechuanguang/Android/workSpaceTwo/SocketDemo/AndroidAsync/test/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 57,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]
